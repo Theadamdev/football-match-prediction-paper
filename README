@@ -1,5 +1,6 @@
 <div align="center">
 
+<!-- Drop your 8K cinematic, dark luxury, or space-themed header image here -->
 <img src="https://via.placeholder.com/1200x300/0a0a0a/ffffff?text=Football+Match+Prediction:+A+Literature+Review" width="100%" alt="Header Image">
 
 # Football Match Prediction: Techniques, Data, and Research Gaps
@@ -26,11 +27,11 @@
 
 The review distills the current state of predictive soccer analytics into several core insights:
 
-- ⚖️ **No Universal Model:** No single machine learning algorithm is universally the best across all datasets.
-- ⚙️ **Feature Engineering > Algorithm:** How you build your features (e.g., team strength, Elo ratings, betting odds, home advantage) often has a greater impact than the algorithm itself.
-- 🧠 **Dominant Algorithms:** Random Forest, XGBoost, CatBoost, Logistic Regression, Support Vector Machines, and Neural Networks are the most frequent choices.
-- 📉 **The Benchmark Deficit:** The field currently lacks standardized benchmark datasets for true cross-model evaluation.
-- 🚀 **Future Horizons:** Explainable AI (XAI) and richer spatiotemporal/tracking data represent the most promising frontiers.
+*   ⚖️ **No Universal Model:** No single machine learning algorithm is universally the best across all datasets.
+*   ⚙️ **Feature Engineering > Algorithm:** How you build your features (e.g., team strength, Elo ratings, betting odds, home advantage) often has a greater impact than the algorithm itself.
+*   🧠 **Dominant Algorithms:** Random Forest, XGBoost, CatBoost, Logistic Regression, Support Vector Machines, and Neural Networks are the most frequent choices.
+*   📉 **The Benchmark Deficit:** The field currently lacks standardized benchmark datasets for true cross-model evaluation.
+*   🚀 **Future Horizons:** Explainable AI (XAI) and richer spatiotemporal/tracking data represent the most promising frontiers.
 
 ---
 
@@ -48,8 +49,24 @@ This paper is structured to answer the following core inquiries:
 
 ## ✦ Repository Structure
 
-```text
-.
-├── 📄 README.md        # You are here
-├── 📕 paper.pdf        # The complete literature review
-└── 📜 LICENSE          # MIT License
+*   `README.md` — You are here
+*   `paper.pdf` — The complete literature review
+*   `LICENSE` — MIT License
+
+---
+
+## ✦ Topics & Keywords
+
+`Football Match Prediction` `Soccer Analytics` `Machine Learning` `Random Forest` `XGBoost` `CatBoost` `Logistic Regression` `Support Vector Machines` `Deep Learning` `Feature Engineering` `Sports Analytics`
+
+---
+
+## ✦ Author & Citation
+
+**Adam**
+
+If this review assists in your own research or project development, please cite this repository appropriately.
+
+<div align="center">
+  <p><i>Licensed under the <a href="./LICENSE">MIT License</a></i></p>
+</div>
